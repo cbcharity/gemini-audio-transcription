@@ -1,0 +1,6 @@
+{
+  "name": "Audio Transcribe & Diarization",
+  "description": "Transcribe audio files up to 1 hour with gemini-3.5-transcribe via Interactions API, featuring multi-speaker diarization (up to 3 speakers), word-level timestamps, synchronized audio playback, and key points summarization.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
